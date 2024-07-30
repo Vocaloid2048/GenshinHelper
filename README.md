@@ -6,6 +6,14 @@
 ![Make With Love](https://img.shields.io/badge/make_with_%E2%9D%A4%EF%B8%8F-white)
 ![Version](https://img.shields.io/badge/Version-3.9.9-pink)
 
+## Message by the Project Organizer
+Thanks to all who still support Genshin Spirit
+It might be too late to say, but Genshin Spirit has already stopped maintaining since last commit
+Here are the actions will be happen soon/happened:
+- GitHub Repo : Set as Public Archive
+- Play Store : Dismiss app after 31st August, users can still use the app after that
+- Stargazer 3 : Another Project I am maintaining, which is nearly release the close beta version
+Finally, thx for all your support, see you later!
 
 ### Project Organizor 
 ![Voc-夜芷冰](https://dcbadge.vercel.app/api/shield/417665898548166678)
